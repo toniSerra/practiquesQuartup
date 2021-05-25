@@ -1,0 +1,17 @@
+{
+  "Cestacompra": {
+    "description": "Auto imported from components/Cestacompra.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Producto": {
+    "description": "Auto imported from components/Producto.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "Drawerproducto": {
+    "description": "Auto imported from components/drawerproducto.vue"
+  }
+}

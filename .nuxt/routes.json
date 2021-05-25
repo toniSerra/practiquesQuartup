@@ -1,0 +1,30 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/home/toni/Documentos/AplicacionsWeb/test2/test2/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_730aaa38"
+  },
+  {
+    "name": "productos",
+    "path": "/productos",
+    "component": "/home/toni/Documentos/AplicacionsWeb/test2/test2/pages/productos.vue",
+    "chunkName": "pages/productos",
+    "_name": "_1d827471"
+  },
+  {
+    "name": "productos_copia",
+    "path": "/productos_copia",
+    "component": "/home/toni/Documentos/AplicacionsWeb/test2/test2/pages/productos_copia.vue",
+    "chunkName": "pages/productos_copia",
+    "_name": "_70adf7ce"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/toni/Documentos/AplicacionsWeb/test2/test2/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_453f5db0"
+  }
+]
